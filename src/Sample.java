@@ -4,9 +4,10 @@ public class Sample {
 		int sum = 10;
 		System.out.println(sum);
 		
-		
+		int Equal = 10;
+		System.out.println(Equal);
 		
 		
 	}
-
+ 
 }

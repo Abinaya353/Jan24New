@@ -10,11 +10,13 @@ public class Sample {
 
 		int divide = 20;
 		System.out.println(divide);
+
 		
 		int num = 100;
 		System.out.println(num);
 
 		
+
 
 		
 		

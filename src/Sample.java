@@ -15,6 +15,8 @@ public class Sample {
 		int num = 100;
 		System.out.println(num);
 
+		int numericals = 200;
+		System.out.println(numericals);
 		
 
 

@@ -12,6 +12,11 @@ public class Sample {
 		System.out.println(divide);
 
 		
+		int num = 100;
+		System.out.println(num);
+
+		
+
 
 		
 		

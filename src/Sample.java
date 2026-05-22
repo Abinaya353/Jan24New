@@ -26,7 +26,8 @@ public class Sample {
 		System.out.println(num2);
 
 
-		
+		int num4 = 600;
+		System.out.println(num4);
 		
 	}
  

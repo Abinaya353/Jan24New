@@ -14,12 +14,21 @@ public class Sample {
 		
 		int num = 100;
 		System.out.println(num);
-
+		
 		int numericals = 200;
 		System.out.println(numericals);
 		
+		int num1 = 300;
+		System.out.println(num1);
+
+		
+		int num2 = 400;
+		System.out.println(num2);
+		
+
 		int num3 = 500;
 		System.out.println(num3);
+
 
 
 		

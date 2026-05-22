@@ -18,6 +18,8 @@ public class Sample {
 		int numericals = 200;
 		System.out.println(numericals);
 		
+		int num3 = 500;
+		System.out.println(num3);
 
 
 		

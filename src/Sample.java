@@ -29,9 +29,9 @@ public class Sample {
 		int num3 = 500;
 		System.out.println(num3);
 
-
-
 		
+		int num4 = 600;
+		System.out.println(num4);
 		
 	}
  

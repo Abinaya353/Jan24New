@@ -22,7 +22,8 @@ public class Sample {
 		System.out.println(num1);
 
 		
-		
+		int num2 = 400;
+		System.out.println(num2);
 
 
 		

@@ -24,8 +24,12 @@ public class Sample {
 		
 		int num2 = 400;
 		System.out.println(num2);
+		
 
+		int num3 = 500;
+		System.out.println(num3);
 
+		
 		int num4 = 600;
 		System.out.println(num4);
 		
